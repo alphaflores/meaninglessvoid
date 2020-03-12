@@ -1,3 +1,3 @@
 # meaninglessvoid
 
-#A place so pointless, it's free.
+A place so pointless, it's free.
